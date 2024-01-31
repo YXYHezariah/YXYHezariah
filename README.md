@@ -5,7 +5,7 @@
 * 是一个大数据专业菜鸟 🐣 对计算机充满热情 💞️
 * 就读于 ~~**广东第一专科学院**~~ 😄 岭南师范学院的计算机与智能教育学院，目前是一名大二在读生 👀
 * 兴趣：`Random("写BUG", "玩游戏", "看动漫", "看书")` 🌱
-* <span style="color: red;">**共产主义**</span> <span style="color: gold;">**☭**</span>接班人
+* <span style="color: red;">**共产主义**</span> <span style="color: gold;">**☭**</span> 接班人
 * 期待与你相识 📫
 
 ### Hi there! 👋🏻
