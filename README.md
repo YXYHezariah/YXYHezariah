@@ -17,14 +17,14 @@
 
 ### Stats 💯
 
-<a href="https://reactjs.org/"><code><img height="20" src="YXYHezariah/Picture/others/react.svg"></code></a>
-<a href="https://www.typescriptlang.org/"><code><img height="20" src="YXYHezariah/Picture/others/typescript.png"></code></a>
-<a href="https://www.electronjs.org/l"><code><img height="20" src="YXYHezariah/Picture/others/electron.svg"></code></a>
-<a href="https://www.rust-lang.org/"><code><img height="20" src="YXYHezariah/Picture/others/rust.svg"></code></a>
-<a href="https://tauri.app/"><code><img height="20" src="YXYHezariah/Picture/others/tauri.png"></code></a>
-<a href="https://lesscss.org/"><code><img height="20" src="YXYHezariah/Picture/others/less.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="YXYHezariah/Picture/others/webpack.svg"></code></a>
-<a href="https://vitejs.dev/"><code><img height="20" src="YXYHezariah/Picture/others/vite.png"></code></a>
+<a href="https://reactjs.org/"><code><img height="20" src="./others/react.svg"></code></a>
+<a href="https://www.typescriptlang.org/"><code><img height="20" src="./others/typescript.png"></code></a>
+<a href="https://www.electronjs.org/l"><code><img height="20" src="./others/electron.svg"></code></a>
+<a href="https://www.rust-lang.org/"><code><img height="20" src="./others/rust.svg"></code></a>
+<a href="https://tauri.app/"><code><img height="20" src="./others/tauri.png"></code></a>
+<a href="https://lesscss.org/"><code><img height="20" src="./others/less.png"></code></a>
+<a href="https://webpack.js.org/"><code><img height="20" src="./others/webpack.svg"></code></a>
+<a href="https://vitejs.dev/"><code><img height="20" src="./others/vite.png"></code></a>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=YXYHezariah&show_icons=true)
 
