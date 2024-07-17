@@ -1,6 +1,6 @@
 ### 初次见面 👋🏻
 
-* 我的名字是何梓煜，你也可以叫我盒子 ⚡
+* 我的名字是郁筱妖，你可以叫我小妖 ⚡
 * 欢迎访问 ~~[我的个人网站](还在弄)~~
 * 是一个大数据专业菜鸟 🐣 对计算机充满热情 💞️
 * 就读于 ~~**广东第一专科学院**~~ 😄 岭南师范学院的计算机与智能教育学院，目前是一名大二在读生 👀
@@ -10,7 +10,7 @@
 
 ### Hi there! 👋🏻
 
-* This is **`Hezariah`** ✨ You can also call me **`Box`** 🐣
+* This is **`Hezariah`** ✨🐣
 * I like `Random("creating bug", "playing games", "watching bangumi", "reading books")` 💞️
 * <span style="color: red;">**Communism**</span> <span style="color: gold;">**☭**</span> successor
 * Looking forward to becoming friends with you 🤟🏻
