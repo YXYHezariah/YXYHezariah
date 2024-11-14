@@ -19,15 +19,6 @@
 
 ### Stats 💯
 
-<a href="https://reactjs.org/"><code><img height="20" src="./others/react.svg"></code></a>
-<a href="https://www.typescriptlang.org/"><code><img height="20" src="./others/typescript.png"></code></a>
-<a href="https://www.electronjs.org/l"><code><img height="20" src="./others/electron.svg"></code></a>
-<a href="https://www.rust-lang.org/"><code><img height="20" src="./others/rust.svg"></code></a>
-<a href="https://tauri.app/"><code><img height="20" src="./others/tauri.png"></code></a>
-<a href="https://lesscss.org/"><code><img height="20" src="./others/less.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./others/webpack.svg"></code></a>
-<a href="https://vitejs.dev/"><code><img height="20" src="./others/vite.png"></code></a>
-
 <table align="center">
   <tr>
     <td align="center" width="45%">
@@ -37,9 +28,9 @@
         <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YXYHezariah&theme=2077" alt="hezariah" /></a>
     </td>
   </tr>
-  
 </table>
 
+<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 <!---
 YXYHezariah/YXYHezariah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
