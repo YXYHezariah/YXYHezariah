@@ -1,3 +1,4 @@
+<h1> 💫 关于我  </h1>
 ### 初次见面 👋🏻
 
 * 我的名字是郁筱妖，你可以叫我小妖 ⚡
@@ -8,6 +9,7 @@
 * <span style="color: red;">**共产主义**</span> <span style="color: gold;">**☭**</span> 接班人
 * 期待与你相识 📫
 
+<h1> 💫 About Me  </h1>
 ### Hi there! 👋🏻
 
 * This is **`Hezariah`** ✨🐣
