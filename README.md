@@ -28,6 +28,14 @@
         <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YXYHezariah&theme=2077" alt="hezariah" /></a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="45%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=YXYHezariah&show_icons=true&theme=radical&include_all_commits=true" alt="hezariah" /></a>
+    </td>
+    <td align="center" width="55%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YXYHezariah&theme=radical&layout=compact" alt="hezariah" /></a>
+    </td>
+  </tr>
 </table>
 
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
