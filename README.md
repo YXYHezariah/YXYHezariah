@@ -28,7 +28,17 @@
 <a href="https://webpack.js.org/"><code><img height="20" src="./others/webpack.svg"></code></a>
 <a href="https://vitejs.dev/"><code><img height="20" src="./others/vite.png"></code></a>
 
-![My github stats]([https://github-readme-stats.vercel.app/api?username=YXYHezariah&show_icons=true](https://gh-readme-profile.vercel.app/api?username=YXYHezariah&theme=dark&hide=repos,stars,forks,commits,prs,prs_merged,issues,contributed&show=reviews,issues_closed,discussions_started,discussions_answered&title_color=00a1e7&text_color=99d9ea&icon_color=ec1c23&border_color=7d7d7d&username_color=fef100))
+<table align="center">
+  <tr>
+    <td align="center" width="45%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=YXYHezariah&theme=dark&hide=repos,stars,forks,commits,prs,prs_merged,issues,contributed&show=reviews,issues_closed,discussions_started,discussions_answered&title_color=00a1e7&text_color=99d9ea&icon_color=ec1c23&border_color=7d7d7d&username_color=fef100" alt="hezariah" /></a>
+    </td>
+    <td align="center" width="55%">
+        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YXYHezariah&theme=2077" alt="hezariah" /></a>
+    </td>
+  </tr>
+  
+</table>
 
 <!---
 YXYHezariah/YXYHezariah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
