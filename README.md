@@ -30,10 +30,10 @@
   </tr>
   <tr>
     <td align="center" width="45%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=YXYHezariah&show_icons=true&theme=radical&include_all_commits=true" alt="hezariah" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=YXYHezariah&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="hezariah" /></a>
     </td>
     <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YXYHezariah&theme=radical&layout=compact" alt="hezariah" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YXYHezariah&theme=radical&layout=compact&hide_border=true" alt="hezariah" /></a>
     </td>
   </tr>
 </table>
